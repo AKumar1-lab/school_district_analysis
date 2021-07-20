@@ -48,10 +48,11 @@ The amount for % Overall Passing changed from 90.94% to 90.63%, this means that 
 
 The average math score for each grade level from each school
 
-<img width="480" alt="Before and After Math Scores" src="https://user-images.githubusercontent.com/85860367/126272190-b9996a59-9bb7-4725-ac3a-40b92eb3f308.png">
+<img width="400" alt="Before and After Math Scores" src="https://user-images.githubusercontent.com/85860367/126272190-b9996a59-9bb7-4725-ac3a-40b92eb3f308.png">
 
 The average reading score for each grade level from each school
-<img width="480" alt="Before and After Reading Score" src="https://user-images.githubusercontent.com/85860367/126272963-e40051f7-15f7-4755-a979-fd4d8836ddcd.png">
+
+<img width="400" alt="Before and After Reading Score" src="https://user-images.githubusercontent.com/85860367/126272963-e40051f7-15f7-4755-a979-fd4d8836ddcd.png">
 
 The scores by school spending per student, by school size, and by school type
 
